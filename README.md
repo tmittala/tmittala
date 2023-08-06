@@ -1,5 +1,7 @@
 ### Hi there 👋
- 🔭 I’m currently working on Python and R
+
+A little about me!
+- 🔭 I’m currently working on Python and R
 - 🌱 I’m currently learning Business Analytics at University of Michigan! Go Blue!!
 - 👯 I’m looking to collaborate on data analysis projects!
 - 🤔 I’m looking for help with sharpening my Python skills
