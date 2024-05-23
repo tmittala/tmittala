@@ -1,11 +1,11 @@
 ### Hi there 👋
+Thank you for visiting my github profile!
 
 A little about me!
-- 🔭 I’m currently working on Python and R
-- 🌱 I’m currently learning Business Analytics at University of Michigan! Go Blue!!
+- 🔭 I am always actively working to improve my Python and SQL skills.
+- 🌱 I have a Master of Business Analytics from University of Michigan! Go Blue!!
 - 👯 I’m looking to collaborate on data analysis projects!
-- 🤔 I’m looking for help with sharpening my Python skills
-- 💬 Ask me about Business, Accounting, Big4, food, and Nepal :)
+- 💬 Ask me about Business, Data Analysis, Big4, food, and Nepal :)
 - 📫 How to reach me: Reach out to me on LinkedIn
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: I have done Skydiving and want to do all adventure sports before I turn 30!
